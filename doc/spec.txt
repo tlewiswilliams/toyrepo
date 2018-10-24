@@ -1,1 +1,2 @@
 Draft specifications for project: TODO
+changes 10.23.18
